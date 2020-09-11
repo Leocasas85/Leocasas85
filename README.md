@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-> A Senior Tech Recruiter and Faux Developer stumbling my way through the interwebz 
+> A Senior Tech Recruiter and Faux Developer stumbling my way through the interwebz [] 
+
+
 
 📫 How to reach me: leandro.casas.mail@gmail.com 
 
