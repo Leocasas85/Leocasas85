@@ -65,4 +65,6 @@ Hit me up if you wanna talk search and osint!
 - 🐙 [GitHub LeoCasas85](https://github.com/leocasas85)
 
 
-<p> align="centre" ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) </p>
+<div class="info">
+  <p align="center" class="header-image"><img src="![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"></p>
+</div>
