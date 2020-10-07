@@ -4,17 +4,17 @@
   <p class="meta-data" align="center">
     ✨ Senior Tech Recruiter and Sourcing Junkie  ✨<br/>
     🐍 Python 🐍<br/> 
-    👾 OSINT👾<br/>
-    ☁ Terrible Web Developer  ☁<br/>
-    🤯 Anything... 🤯
+    🕵️‍ OSINT🕵️‍ <br/>
+    💻 Terrible Web Developer 💻<br/>
+  
   </p>
 </div>
 
 ---
 
-## 🙋‍♂️ About me and what I do
+## About me and what I do
 
- love working with fast-moving start-ups, scale-ups and tech enterprises. I aim to understand business problems and craft/deliver unique talent/sourcing strategies to solve them.
+I love working with fast-moving start-ups, scale-ups and tech enterprises. I aim to understand business problems and craft/deliver unique talent/sourcing strategies to solve them.
 
 I've worked both as a 360 Recruiter and, have focused purely on sourcing and delivery. I use traditional and non-conventional recruitment approaches and technologies. I am an open-source advocate and continuously exploring open-source intelligence techniques and networking.
 
@@ -61,5 +61,5 @@ Hit me up if you wanna talk search and osint!
 
 ## Where to find me?
 
-- 📬 [Email leandro.casas.work@gmail.com](Email leandro.casas.work@gmail.com)
+- 📬 [Email leandro.casas.work@gmail.com](mailto:leandro.casas.work@gmail.com)
 - 🐙 [GitHub LeoCasas85](https://github.com/leocasas85)
