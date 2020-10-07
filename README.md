@@ -65,4 +65,4 @@ Hit me up if you wanna talk search and osint!
 - 🐙 [GitHub LeoCasas85](https://github.com/leocasas85)
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<p> align="centre" ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
