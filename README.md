@@ -1,3 +1,17 @@
+<div class="info">
+  <p align="center" class="header-image"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEFnEKgbdn_UQ/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=eoJzxHxBUlzitOUE7O5liKY6RR7i_f-S3TIwELE2A18" width="200"></p>
+  <h1 class="name" align="center"><span>Leo Casas</span></h1>
+  <p class="meta-data" align="center">
+    ✨ Senior Tech Recruiter and Sourcing Junkie  ✨<br/>
+    🐍 Python 🐍<br/> 
+    👾 OSINT👾<br/>
+    ☁ Terrible Web Developer  ☁<br/>
+    🤯 Anything... 🤯
+  </p>
+</div>
+
+---
+
 ## 🙋‍♂️ About me and what I do
 
  love working with fast-moving start-ups, scale-ups and tech enterprises. I aim to understand business problems and craft/deliver unique talent/sourcing strategies to solve them.
