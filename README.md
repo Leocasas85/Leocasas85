@@ -34,14 +34,15 @@ Hit me up if you wanna talk search and osint!
 - Seek Premium Talent Search,
 
 ### Getting there ...
-- GitHub API with OAUTH
+- Linux Terminal 
 - Jupyter Notebooks
-- Intermediate Python
+- Python
 - SQL 
 
 ### I want to learn more about ...
 - Ethical Hacking 
 - OSINT 
+- Graph Databases - Neo4J incoming :) 
 
 ## Platforms
 - LinkedIn 
