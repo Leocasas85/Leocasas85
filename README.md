@@ -1,5 +1,5 @@
 <div class="info">
-  <p align="center" class="header-image"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEFnEKgbdn_UQ/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=eoJzxHxBUlzitOUE7O5liKY6RR7i_f-S3TIwELE2A18" width="200"></p>
+  <p align="center" class="header-image"><img src="https://cdn.dribbble.com/users/530731/screenshots/14773250/dribbl_4x.png" width="200"></p>
   <h1 class="name" align="center"><span>Leo Casas (He/Him) </span></h1>
   <p class="meta-data" align="center">
     ✨ Senior Tech Recruiter and Sourcing Junkie  ✨<br/>
