@@ -1,5 +1,6 @@
 <div class="info">
-  <p align="center" class="header-image"><img src="https://cdn.dribbble.com/users/530731/screenshots/14773250/dribbl_4x.png" width="200"></p>
+  <p align="center" class="header-image"><img src="
+<img src="https://api.harmonograph.art"> width="200"></p>
   <h1 class="name" align="center"><span>Leo Casas (He/Him) </span></h1>
   <p class="meta-data" align="center">
     ✨ Senior Tech Recruiter and Sourcing Junkie  ✨<br/>
@@ -10,7 +11,6 @@
   </p>
 </div>
 
-<img src="https://api.harmonograph.art width="220" align="right">
 
 ---
 
