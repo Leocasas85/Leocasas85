@@ -10,6 +10,8 @@
   </p>
 </div>
 
+<img src="https://api.harmonograph.art width="220" align="right">
+
 ---
 
 ## About me and what I do
