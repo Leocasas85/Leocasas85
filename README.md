@@ -2,7 +2,7 @@
   <p align="center" class="header-image"> <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220">
   <h1 class="name" align="center"><span>Leo Casas (He/Him) </span></h1>
   <p class="meta-data" align="center">
-    ✨ Senior Tech Recruiter and Sourcing Junkie  ✨<br/>
+    ✨ Sourcing Junkie @ Canva  ✨<br/>
     🐍 Python 🐍<br/> 
     🕵️‍ OSINT🕵️‍ <br/>
     💻 Terrible Web Developer 💻<br/>
