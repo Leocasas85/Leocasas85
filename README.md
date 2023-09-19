@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
+  ![Image Description](/Users/leocas/Desktop/Screenshot 2023-09-19 at 3.31.38 pm.png)]
 </p>
 ---
 
