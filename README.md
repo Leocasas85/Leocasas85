@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  ![Image Description](/Users/leocas/Desktop/Screenshot 2023-09-19 at 3.31.38 pm.png)]
+  ![Image Description](/Users/leocas/Desktop/Screenshot 2023-09-19 at 3.31.38 pm.png)
 </p>
 ---
 
