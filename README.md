@@ -11,8 +11,9 @@
 </div>
 
 <p align="center">
-  ![Image Description](/Users/leocas/Desktop/Screenshot 2023-09-19 at 3.31.38 pm.png)
+  <img src="/Users/leocas/Desktop/Screenshot 2023-09-19 at 3.31.38 pm.png" alt="Image Description">
 </p>
+
 ---
 
 ## About me and what I do
