@@ -25,46 +25,11 @@ Outside of work, you will find me raising two hilarious little humans 👨‍�
 
 Hit me up if you wanna talk search and osint! 
 
-## 💻 Tools .
 
-### I know these inside and out ... 
-- GitHub Search 
-- X-Ray Search
-- Data Exchange Search
-- LinkedIn Recruiter, 
-- Seek Premium Talent Search,
-
-### Getting there ...
-- Linux Terminal 
-- Jupyter Notebooks
-- Python
-- SQL 
-
-### I want to learn more about ...
-- Ethical Hacking 
-- OSINT 
-- Graph Databases - Neo4J incoming :) 
-
-## Platforms
-- LinkedIn 
-- Seek
-- Hackerrank
-- JobAdder
--  Peoplesoft 
--  PageUp
--  Linux 
--  Windows
-- VS Code 
-
-
-## Languages
-- English
-- Afrikaans
 
 ## Where to find me?
 
 - 📬 [Email leandro.casas.work@gmail.com](mailto:leandro.casas.work@gmail.com)
-- 🐙 [GitHub LeoCasas85](https://github.com/leocasas85)
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
