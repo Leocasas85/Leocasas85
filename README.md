@@ -10,7 +10,9 @@
   </p>
 </div>
 
-
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
+</p>
 ---
 
 ## About me and what I do
@@ -31,6 +33,4 @@ Hit me up if you wanna talk search and osint!
 
 - 📬 [Email leandro.casas.work@gmail.com](mailto:leandro.casas.work@gmail.com)
 
-<p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/QLKSt3wQqlj7a/giphy.gif">
-</p>
+
